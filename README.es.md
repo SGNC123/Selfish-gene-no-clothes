@@ -1,4 +1,4 @@
-**Idioma:** [English](README.MD) | Español
+**Idioma:** [English](README.md) | Español
 
 # El gen egoísta está desnudo
 
