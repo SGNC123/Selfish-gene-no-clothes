@@ -1,3 +1,5 @@
+**Language:** English | [Español](README.es.md)
+
 # The Selfish Gene has no Clothes
 
 Open a fresh AI window, sequentially copy and paste each of the 15 prompts below, and run an experiment to see how the gene-centric theory holds up under questioning.
