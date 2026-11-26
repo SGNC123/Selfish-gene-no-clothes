@@ -142,6 +142,6 @@ This sequence was designed and verified on **Google AI Mode** and standalone **G
 
 ---
 
-**Next Step:** Once you finish Prompt 16, stay in the same chat and ask any open-ended question of your own (for example, "How do sterile worker bees evolve?") to explore evolutionary topics without gene-centric rhetoric.
+**Next Step:** Once you finish Prompt 16, stay in the same chat and ask an open-ended question of your own (for example, "How do sterile worker bees evolve?") to explore evolutionary topics without gene-centric rhetoric.
 
 ```
