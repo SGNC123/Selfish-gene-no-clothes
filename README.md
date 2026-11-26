@@ -118,7 +118,7 @@ This sequence was designed and verified on **Google AI Mode** and standalone **G
 
 ---
 
-#### SECTION 14: Cellular Continuity vs. The Disposable Vehicle
+### SECTION 14: Cellular Continuity vs. The Disposable Vehicle
 
 > `>>>[14/16]` Proponents of the 'selfish gene' argue that living organisms are merely temporary, disposable 'vehicles' while only genes are immortal and pass down through the ages. However, looking at basic cell biology, does a strand of DNA ever construct a living cell from scratch, or is every new cell physically divided from a pre-existing living cell — passing down intact membranes, organelles, and molecular machinery in an unbroken physical chain? Since DNA is completely inert without an existing cell's machinery to read and replicate it, isn't the living cell itself just as continuous and ancient as the DNA inside it, making the idea of a 'disposable vehicle' physically false?
 
