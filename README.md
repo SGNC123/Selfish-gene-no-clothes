@@ -4,7 +4,7 @@
 
 When we look at a finished biological trait today, without seeing the millions of simpler ancestors and dead ends that were filtered out along the way, it is easy to fall into the illusion that a single gene acted like a clever strategist to solve a survival problem, an idea popularized by the 'Selfish Gene' metaphor. In reality, DNA is a passive chemical blueprint — it is the external environment that does 100% of the active filtering, in a model proposed by Darwin known as Natural Selection.
 
-Open a fresh AI window, sequentially copy and paste each of the 16 prompts below, and run an experiment to see how the gene-centric metaphor holds up under plain physical logic, and how you can explore Darwin's model on its own merits afterward.
+Open a fresh AI window, sequentially copy and paste each of the 16 prompts below, and run an experiment to see how the  'Selfish Gene' metaphor holds up under plain physical logic, and how afterward you can explore Darwin's original model free of gene-centric rhetoric.
 
 **Note:** For the best and fastest experience, open google.com in a fresh browser window (or an Incognito tab), click the AI Mode button on the search bar, and copy and paste each numbered prompt (including its `>>>[1/16]` tag) sequentially using the default settings.
 
